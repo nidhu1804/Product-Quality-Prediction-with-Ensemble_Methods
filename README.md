@@ -6,3 +6,4 @@ Principal Component Analysis (PCA) is applied to reduce the dimensionality of th
 
 The final predictions are made on a validation dataset and updated in the submission template. This project demonstrates a complete end-to-end pipeline, from data preprocessing and feature engineering to model selection and deployment. It highlights the use of PCA for dimensionality reduction and ensemble methods like Random Forest and XGBoost for their effectiveness in handling tabular data. The repository includes reproducible steps, making it easy to adapt and extend for similar use cases.
 
+I have taken the dataset from kaggle, You can access the dataset from [here](https://www.kaggle.com/datasets/podsyp/production-quality/data)
