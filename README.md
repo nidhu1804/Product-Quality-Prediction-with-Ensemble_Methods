@@ -1,4 +1,4 @@
-# Product-quality-produced-by-a-roasting-machine
+# Product-quality-produced-by-a-roasting-machine - Supervised Regression
 
 This project focuses on predicting production quality using machine learning models based on historical production data. The dataset includes input features (data_X.csv), target quality metrics (data_Y.csv), and a submission template (sample_submission.csv). To ensure temporal alignment, the data is preprocessed by converting timestamps, grouping features by hour, and shifting the quality metrics to match the corresponding production inputs. Additional features such as year, month, day, and hour are extracted to enhance the predictive modeling.
 
